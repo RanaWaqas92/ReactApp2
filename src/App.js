@@ -8,9 +8,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <Login Name="waqas"></Login>
-      <Login Name="Danish"></Login>
-      <Login Name="Rashid"></Login>
+      <Login Name="waqas" Student="Student"></Login>
         {/* <img src={logo} className="Applogo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
