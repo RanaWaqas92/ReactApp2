@@ -7,7 +7,7 @@ import Login from './Login';
 function App() {
   return (
     <div className="App">
-      <header className="Appheader">
+      <header className="App-header">
       <Login Name="waqas"></Login>
       <Login Name="Danish"></Login>
       <Login Name="Rashid"></Login>
