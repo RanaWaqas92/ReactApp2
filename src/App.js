@@ -7,6 +7,7 @@ import Login from './Login';
 function App() {
   return (
     <div className="App">
+      <img src={logo} className="Applogo" alt="logo" />
       <header className="App-header">
       <Login Name="waqas" Student="Student"></Login>
         {/* <img src={logo} className="Applogo" alt="logo" />
